@@ -5,3 +5,10 @@ const stringDeNumeros = "34567";
 
 const citacao = 'O autor comentou sobre as "boas práticas de programação"';
 console.log(citacao)
+
+//concatenação (+)
+
+const nome = "Meu nome é: ";
+const meuNome = "Helcio";
+
+console.log(nome + meuNome)
